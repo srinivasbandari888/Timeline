@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.app-container {
+  background-color: white;
+  height: 100vh;
+}
+.responsive-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  font-family: 'roboto';
+  font-size: 28px;
+  font-weight: bold;
+  color: #1e293b;
+}
+.sub-heading {
+  font-family: 'roboto';
+  font-size: 30px;
+  font-weight: bold;
+  color: #171f46;
+}
